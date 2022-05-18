@@ -1,0 +1,8 @@
+/Dogs vs. Other/*
+/src/__pycache__
+/src/Parsing/__pycache__
+/src/Parsing/ParsedImages/*
+/b3.pth.tar
+/val.pth.tar
+/env
+/.ipynb_checkpoints
