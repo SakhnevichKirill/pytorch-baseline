@@ -2,11 +2,13 @@ Resnet18 baseline
 
 Main features:
 - fp16
+- augmentation
 - 3 types of dataset preprocessing
 - oversampling
 - maen and std calculation
 - history tracking
 - train/val model save/load
+- 
 
 Todo:
 - Kaggle submit/testing
