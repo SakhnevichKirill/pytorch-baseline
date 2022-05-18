@@ -12,9 +12,10 @@ Main features:
 
 Todo:
 - testing: kaggle submit
-- write history to json / json to history tracking
-- write key input interpreter
-- write comand line argumentation
+- sub telegram bot: training process
+- tracking: history to json / json to history 
+- flexibility: key input interpreter
+- flexibility: comand line argumentation
 
 Dataset:
 https://drive.google.com/file/d/1MOlPqCVh8IGWHeiIkJYz5Qp8SLdfVP1i/view?usp=sharing
